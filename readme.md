@@ -38,7 +38,7 @@ Choose one of the following routes for your journey.
 
 **TASKS**
 * All of the base, and novice requirements
-+ Use a JavaScript framework (Angular, React, Backbone, etc...)
++ Use a JavaScript framework (React, Backbone, etc...)
 + Use SASS or LESS for custom CSS
 + Make use of CSS animations
 
@@ -52,7 +52,7 @@ Choose one of the following routes for your journey.
 * All of the base, novice, and intermediate requirements
 + Allow the top 100 to be searchable 
 + Allow the user to see more information about a selected Album
-+ Host the website on the service of your choice (We enjoy cloud hosting like Azure or AWS, but we would also settle for a *.github.io address)
++ Host the website on the service of your choice (We enjoy cloud hosting like AWS, but we would also settle for a *.github.io address)
 
 
 -------
@@ -61,6 +61,5 @@ Choose one of the following routes for your journey.
 *"All is fair in love and bonus rounds"*
 
 **TASKS**
-+ Use a language that compiles to JavaScript (CoffeeScript, TypeScript, Dart, etc...)
 + Surprise us! Add a feature that you think would work well here (for instance, advanced search, integration with other API, a "Favorite" functionality)
 + Show us your work through your commit history!
